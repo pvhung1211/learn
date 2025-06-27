@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2cb299b217cb629",
+        "id": "75eece3e5f582e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "61cb33327e41215a",
+            "id": "c1b32ed51fe297f0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "CLF-02/Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLF-02/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLF-02/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Test"
             }
           },
           {
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/CLF-02/Test.md",
+                "file": "CLF-02/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -150,7 +152,7 @@
             }
           },
           {
-            "id": "74da2ca71336d73c",
+            "id": "c2838aa3a0cb1787",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61cb33327e41215a",
+  "active": "c1b32ed51fe297f0",
   "lastOpenFiles": [
     "CLF-02/Test.md",
     "Docker copy/Docker host.md",
