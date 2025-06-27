@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "268aad9d08c83c08",
+        "id": "d2cb299b217cb629",
         "type": "tabs",
         "children": [
           {
-            "id": "b5ce042f20c0617f",
+            "id": "61cb33327e41215a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CLF-02/Test.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2825bfb21d9280c",
+  "active": "61cb33327e41215a",
   "lastOpenFiles": [
+    "CLF-02/Test.md",
     "Docker copy/Docker host.md",
     "Docker copy/Outbound connections.md",
     "Docker copy/Docker daemon.md",
@@ -201,7 +202,6 @@
     "Docker copy/TCP,UDP.md",
     "Docker copy",
     "Learn/Docker/Container.md",
-    "CLF-02/Test.md",
     "CLF-02",
     "Learn/Untitled.md",
     "Learn/Docker/Docker host.md",
