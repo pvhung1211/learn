@@ -1,0 +1,1 @@
+A "Docker host" refers to ==the physical or virtual machine where the Docker engine is installed==, essentially the server that runs and manages Docker containers; it's the underlying operating system on which you deploy and execute Docker containers, allowing you to allocate portions of its computing power to individual containers while keeping them isolated from each other.

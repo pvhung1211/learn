@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "befb9239d4cf67e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "268aad9d08c83c08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5ce042f20c0617f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLF-02/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edeafb286eb8fa8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b8d67f95bf2280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2825bfb21d9280c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "12db506c2f4d8b67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "edd13d51d0308bc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d04b244214ad6e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e9f4f98e3444c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ef3a4374f1314eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c8886b9883072799",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "14cdba95598f7e23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "996c7e30e15e9e2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn/CLF-02/Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test"
+            }
+          },
+          {
+            "id": "74da2ca71336d73c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d2825bfb21d9280c",
+  "lastOpenFiles": [
+    "Docker copy/Docker host.md",
+    "Docker copy/Outbound connections.md",
+    "Docker copy/Docker daemon.md",
+    "Docker copy/Docker.md",
+    "Docker copy/Bridge.md",
+    "Docker copy/NAT.md",
+    "Docker copy/Network interface.md",
+    "Docker copy/DNS.md",
+    "Docker copy/Firewall.md",
+    "Docker copy/pseudo-tty.md",
+    "Docker copy/Inbound connections.md",
+    "Docker copy/README.md",
+    "Docker copy/Docker DNS.md",
+    "Docker copy/Image.md",
+    "Docker copy/Networking Fundamentals.md",
+    "Docker copy/Container.md",
+    "Docker copy/Docker Network.md",
+    "Docker copy/Dockerfile.md",
+    "Docker copy/Image vs Container.md",
+    "Docker copy/TCP,UDP.md",
+    "Docker copy",
+    "Learn/Docker/Container.md",
+    "CLF-02/Test.md",
+    "CLF-02",
+    "Learn/Untitled.md",
+    "Learn/Docker/Docker host.md",
+    "Learn/Docker/Outbound connections.md",
+    "Learn/Docker/Docker daemon.md",
+    "Learn/Docker",
+    "Untitled.canvas",
+    "Learn",
+    "CLF-02",
+    "TCP",
+    "Docker",
+    "Docker-2"
+  ]
+}

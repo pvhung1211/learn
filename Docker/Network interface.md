@@ -1,0 +1,2 @@
+
+A "network interface" refers to ==the hardware and software components that allow a device to connect to a network==, essentially acting as the point of connection between a computer and a network, usually implemented through a physical network interface card (NIC) or a software-based virtual interface; it translates data between the device and the network protocol, enabling communication across the network.
