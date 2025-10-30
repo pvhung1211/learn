@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "75eece3e5f582e5f",
+        "id": "39bb0ed574f550c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c1b32ed51fe297f0",
+            "id": "474c730290c7b75d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLF-02/What is Cloude Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for What is Cloude Computing"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLF-02/What is Cloude Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from What is Cloude Computing"
             }
           },
           {
@@ -136,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CLF-02/What is Cloude Computing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of What is Cloude Computing"
             }
           },
           {
@@ -172,9 +175,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2825bfb21d9280c",
+  "active": "474c730290c7b75d",
   "lastOpenFiles": [
+    "Next 15/Concepts.md",
     "CLF-02/AWS Certified Cloud Practitioner Slides v40.pdf",
+    "CLF-02/What is Cloude Computing.md",
+    "Next 15",
+    "Exp.md",
+    "CLF-02/What is Cloude Computing",
+    "CLF-02/sections",
     "CLF-02/Test.md",
     "CLF-02/code/code_v2024-12-24/s3/index.html",
     "CLF-02/code/code_v2024-12-24/s3/coffee.jpg",
@@ -184,10 +193,6 @@
     "CLF-02/code/code_v2024-12-24/cloudformation/1-ec2-with-sg-eip.yaml",
     "CLF-02/code/code_v2024-12-24/cloudformation/0-just-ec2.yaml",
     "CLF-02/code/code_v2024-12-24/s3",
-    "CLF-02/code/code_v2024-12-24/ec2-fundamentals",
-    "CLF-02/code/code_v2024-12-24/cloudformation",
-    "CLF-02/code/code_v2024-12-24",
-    "CLF-02/code",
     "Docker copy/Docker host.md",
     "Docker copy/Outbound connections.md",
     "Docker copy/Docker daemon.md",
@@ -209,9 +214,6 @@
     "Docker copy/Image vs Container.md",
     "Docker copy/TCP,UDP.md",
     "Learn/Docker/Container.md",
-    "Learn/Untitled.md",
-    "Learn/Docker/Docker host.md",
-    "Learn/Docker/Outbound connections.md",
     "Untitled.canvas"
   ]
 }
