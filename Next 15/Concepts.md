@@ -8,4 +8,7 @@
 		- => render `@other/page.tsx` when redirected to `/settings` by Next.js routing.
 
 ### Catch-all Routes
-- `[...catchAll]`: 
+- `[...catchAll]`: https://nextjs.org/docs/app/api-reference/file-conventions/dynamic-routes#catch-all-segments
+
+### template.tsx vs layout.tsx
+- **`template.tsx`** works like **`layout.tsx`** BUT it **re-renders on every navigation**, while layouts preserve state.
