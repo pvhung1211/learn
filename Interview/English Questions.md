@@ -80,3 +80,13 @@ Because the software directly helps patients and elderly people. it is about imp
 
 ### **Our users are not tech-savvy. How would you design/code for them?**
 I focus on **Simplicity** and **Accessibility**. Buttons should be big, text should be clear, and the flow must be simple.
+
+
+### **How does MealSuite support professional growth and learning for developers?**
+
+
+### **Which product or feature is the team focusing on most right now? especially in vietnam team**
+
+### **Can you tell me more about the mealsuite team size in vietnam?**
+
+### **What are the next steps in the interview process, and when can I expect to hear back?**
