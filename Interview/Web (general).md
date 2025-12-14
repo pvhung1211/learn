@@ -41,3 +41,6 @@
 ### One mental model (remember this)
  **Discover → Crawl → Parse HTML → Render JS → Index → Recrawl → Rank**
 
+## Frontend security best practices (e.g., XSS prevention, cookies, authentication)
+
+## Web view (for mobile apps)
