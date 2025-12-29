@@ -68,7 +68,7 @@ I don’t guess. First, I try to find the information myself by reading document
 
 ### **What do you know about my company (mealsuite)**
 From what I know, MealSuite is a technology company that provides an **all-in-one foodservice management platform** for **healthcare and senior living facilities**.
-Your products help manage the whole process, such as **menu planning, recipe management, nutrition management, food ordering and point-of-sale systems**, all in one system.
+Your products help manage the entire process of serving food, such as **menu planning, recipe management, nutrition management, food ordering and point-of-sale systems**, all in one platform.
 I also know that MealSuite **uses AI to support daily operations**, reducing manual work, and helping staff work more efficiently
 
 ### **Which product or feature interests you the most (mealsuite)**
@@ -82,11 +82,38 @@ Because the software directly helps patients and elderly people. it is about imp
 I focus on **Simplicity** and **Accessibility**. Buttons should be big, text should be clear, and the flow must be simple.
 
 
-### **How does MealSuite support professional growth and learning for developers?**
+### **What do you know about unifiedpost**
+Unifiedpost Group is a Belgian fintech company that provides cloud-based solutions for digitalizing administrative and financial processes, such as e-invoicing, payments, procure-to-pay, order-to-cash, and e-reporting.
 
+In Vietnam, the company started operations in 2019. The local team focuses on cloude, security, payment solutions that comply with Vietnamese regulations
+
+- **Procure-to-Pay (P2P)** is the full process from buying something to paying the supplier.
+- **Order-to-Cash (O2C)** is the **full process from receiving a customer order to getting paid**.
+
+### **Which product or feature interests you the most (unifiedpost)**
+The product that interests me the most is the **e-invoicing feature**. because it automates creating, sending, and receiving invoices while ensuring full compliance with local regulations – especially in Vietnam, where e-invoicing is becoming mandatory and rules are changing quickly.
+
+### **How does (MealSuite) support professional growth and learning for developers?**
 
 ### **Which product or feature is the team focusing on most right now? especially in vietnam team**
 
-### **Can you tell me more about the mealsuite team size in vietnam?**
+### **What tech stack or tools does the Vietnam development team mainly use?**
+
+### **Can you tell me more about the mealsuite team (size) in vietnam?**
+
+### **Is there any training or onboarding program for new members?**
 
 ### **What are the next steps in the interview process, and when can I expect to hear back?**
+
+
+
+
+man the hien o round 1 như the nao?
+
+
+
+**How does (MealSuite) support professional growth and learning for developers?**
+### **Which product or feature is the team focusing on most right now? 
+what ai do in the product
+benefit
+fulltime remote?
