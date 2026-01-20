@@ -117,3 +117,9 @@ man the hien o round 1 như the nao?
 what ai do in the product
 benefit
 fulltime remote?
+
+
+-  
+- update job title để nổi bật leading skill 
+- update thêm archivements
+- 

@@ -90,3 +90,10 @@ CORS (Cross-Origin Resource Sharing) is ==a browser security standard that lets
 - Giảm thời gian sửa lỗi và tối ưu hóa sau này
 
 ## RESTful Methods
+## OIDC vs SAML vs JWT???
+
+
+## What trigger layout reflow?
+## hover bằng bàn phím (focus-visible)?
+
+## prefers-reduced-motion
