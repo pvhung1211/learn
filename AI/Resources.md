@@ -8,6 +8,7 @@
 6. Building Agents with MCP: [](https://lnkd.in/gAzBzr3W)[https://www.youtube.com/watch?v=kQmXtrmQ5Zg](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)
 7. Building an Agent from Scratch: [](https://lnkd.in/g9GR9b9F)[https://www.youtube.com/watch?v=xzXdLRUyjUg](https://www.youtube.com/watch?v=xzXdLRUyjUg)
 8. Philo Agents: [](https://lnkd.in/gnxRq9n9)[https://www.youtube.com/playlist?list=PLacQJwuclt_sV-tfZmpT1Ov6jldHl30NR](https://www.youtube.com/playlist?list=PLacQJwuclt_sV-tfZmpT1Ov6jldHl30NR)
+9. Awesome Generative AI: https://github.com/aishwaryanr/awesome-generative-ai-guide
 
 🗂️ Repos
 1. GenAI Agents: [](https://lnkd.in/gvfAc-9H)[https://github.com/nirdiamant/GenAI_Agents](https://github.com/nirdiamant/GenAI_Agents)

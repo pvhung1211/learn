@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dceef6c2c592dde2",
+        "id": "d2b8f32ef9064a14",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac7eee1062a2847",
+            "id": "a3d93ac5befc85d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System design/Resources.md",
+                "file": "AI/Resources.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,13 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ac7eee1062a2847",
+  "active": "a3d93ac5befc85d5",
   "lastOpenFiles": [
+    "AI/Resources.md",
+    "System design/Resources.md",
+    "Untitled",
     "Reminder/Đặt lịch 6 tháng đi interview 1 lần.md",
     "Reminder/Certificate.md",
     "Interview/English Questions.md",
     "Interview/Experiences.md",
-    "System design/Resources.md",
     "Interview/Untitled",
     "System design/CMS App.md",
     "Interview/Web (general).md",
@@ -204,8 +206,6 @@
     "Trading",
     "PWA and React Native",
     "Reminder",
-    "AI/Resources.md",
-    "AI",
     "Node/Hello World.md",
     "Next 15/Concepts.md",
     "CLF-02/What is Cloude Computing.md",
@@ -223,7 +223,6 @@
     "Docker copy/DNS.md",
     "Docker copy/Firewall.md",
     "Docker copy/pseudo-tty.md",
-    "Docker copy/Inbound connections.md",
     "Untitled.canvas"
   ]
 }
