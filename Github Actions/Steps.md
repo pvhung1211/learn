@@ -1,0 +1,4 @@
+- Execute a shell script or an [[Action]]
+- Can use custom or third-party actions
+- Executed in order
+- Can be conditional
