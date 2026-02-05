@@ -48,20 +48,12 @@ After the upload is successful, on the chat UI screen, the user can choose a dat
 Their working culture is a bit different. They really like working overtime. Sometimes we had to work overtime to release to production.  
 Also, they don’t use English very often, so we needed a translator to fully understand their feedback and requirements.
 
-### **what ur current company do**
+### **What ur current company do**
 
+### **Do u ever told that to the pm about that** (don't feel happy)**
 
-
-### **Do u ever told that to the pm about that**
-Yeah, i have talked with him 2 month ago, in my last year perfomance review, but **nothing much changed**, so ...
-
-**I don't feel happy.* but i can not do anything cause they paid us so i need to finish the job
-yeah, I will get an extra day of leave
-
-
-
-do u think ai will replace us ?
-what u think about testing
-what u think when work in a small team (ad vs disad)
-what would u do when face an challenge that u dont know how to work on it? 
+### **Do u think ai will replace us ?**
+### **what u think about testing**
+### **what u think when work in a small team (ad vs disad)**
+### **what would u do when face an challenge that u dont know how to work on it?** 
 

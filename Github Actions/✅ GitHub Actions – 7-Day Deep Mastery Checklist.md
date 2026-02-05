@@ -17,7 +17,7 @@ Daily blocks: **Morning (09:00–12:00) / Afternoon (14:00–18:00)**
 - [x] Explain CI vs CD in my own words
 	- CI: Everything that happens before deploying to production, such as building, testing, and linting the code
 	- CD: Delivering or deploying our repository to production
-- [ ] Locate the GitHub Actions tab in a repo
+- [x] Locate the GitHub Actions tab in a repo
 
 
 ### ⏰ 10:30–11:30 | Section 2: Git & GitHub Crash Course (OPTIONAL / SKIM)
@@ -29,17 +29,18 @@ Daily blocks: **Morning (09:00–12:00) / Afternoon (14:00–18:00)**
 
 ### ⏰ 14:00–16:00 | Hands-on
 
-- [ ] Create a clean test repository
+- [x] Create a clean test repository
 
-- [ ] Push a dummy commit
+- [x] Push a dummy commit
 
-- [ ] Verify GitHub Actions is available
+- [x] Verify GitHub Actions is available
 
   
 
 ### ⏰ 16:00–18:00 | Reflection
 
 - [ ] Write down CI vs CD differences
+Basically, CI is everything need to be done before deploying our code to production, like linting, testing, formating and CD is deploying 
 
 - [ ] Describe workflow → job → step in my own words
 
@@ -53,27 +54,27 @@ Daily blocks: **Morning (09:00–12:00) / Afternoon (14:00–18:00)**
 
 ### ⏰ 09:00–12:00 | Section 3: Basic Building Blocks
 
-- [ ] Understand workflow / job / step
+- [x] Understand workflow / job / step
 
-- [ ] Understand `uses` vs `run`
+- [x] Understand `uses` vs `run`
 
-- [ ] Understand runners (`runs-on`)
+- [x] Understand runners (`runs-on`)
 
-- [ ] Use marketplace actions
+- [x] Use marketplace actions
 
-- [ ] Understand parallel vs sequential jobs
+- [x] Understand parallel vs sequential jobs
 
   
 
 ### ⏰ 14:00–16:00 | Hands-on
 
-- [ ] Create workflow from scratch
+- [x] Create workflow from scratch
 
-- [ ] Add multiple steps
+- [x] Add multiple steps
 
-- [ ] Add multiple jobs
+- [x] Add multiple jobs
 
-- [ ] Force a job failure
+- [x] Force a job failure
 
   
 

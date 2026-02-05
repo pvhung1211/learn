@@ -105,21 +105,9 @@ The product that interests me the most is the **e-invoicing feature**. because i
 
 ### **What are the next steps in the interview process, and when can I expect to hear back?**
 
-
-
-
-man the hien o round 1 như the nao?
-
-
-
-**How does (MealSuite) support professional growth and learning for developers?**
+### **How does (MealSuite) support professional growth and learning for developers?**
 ### **Which product or feature is the team focusing on most right now? 
-what ai do in the product
-benefit
-fulltime remote?
+
+### **What ai do in the product**
 
 
--  
-- update job title để nổi bật leading skill 
-- update thêm archivements
-- 

@@ -1,27 +1,28 @@
 
 ## How Googlebot works & how often it recrawls
-### 1. How Google finds a page
+
+#### 1. How Google finds a page
 
 - Through **links**, **sitemaps**, or **Search Console**   
 - No links + no sitemap → likely never found
-### 2. Crawling
+#### 2. Crawling
 - Googlebot requests the URL
 - Checks:
     - `robots.txt`
     - HTTP status
     - `noindex / nofollow`
 - Blocked here → never indexed
-### 3. Parsing & rendering
+#### 3. Parsing & rendering
 - Reads **HTML first**
 - Then (if needed) runs **JavaScript** using headless Chrome
 - If content depends on JS, auth, or user action → may fail
-### 4. Indexing
+#### 4. Indexing
 - Google decides:
     - Is content useful?
     - Is it duplicate?
     - Which URL is canonical?
 - Crawled ≠ indexed
-### 5. Recrawling (no fixed time)
+#### 5. Recrawling (no fixed time)
 - Per URL, not entire app
 - Based on:
     - Importance (links, traffic)
@@ -33,16 +34,20 @@
 - Important pages → minutes / hours
 - Normal pages → days
 - Low-value pages → weeks / months
-### 6. React / Next.js impact
+#### 6. React / Next.js impact
 - Google crawls **URLs**
 - **SSR / SSG / ISR** = best
 - Client-only rendering = risky
 - Google can’t see content if render fails
-### 7. SEO: One mental model (remember this)
+#### 7. SEO: One mental model (remember this)
  **Discover → Crawl → Parse HTML → Render JS → Index → Recrawl → Rank**
 
 ### **8. CORS**
 CORS (Cross-Origin Resource Sharing) is ==a browser security standard that lets servers explicitly allow web pages from _different_ domains (origins) to request resources==
+
+## How to handle CORS in Front-end side?
+
+
 
 ## Frontend security best practices 
 - Dont store sensitve data on localStorage
@@ -54,37 +59,37 @@ CORS (Cross-Origin Resource Sharing) is ==a browser security standard that lets
 
 ## Why mobile first?
 
-## 1. **Thống kê sử dụng thiết bị**
+#### 1. **Thống kê sử dụng thiết bị**
 
 - Hơn 60% lưu lượng truy cập web toàn cầu đến từ mobile
 - Người dùng dành nhiều thời gian hơn trên điện thoại so với desktop
 - Xu hướng này đang tăng mạnh hàng năm
 
-## 2. **Ưu tiên nội dung (Content Priority)**
+#### 2. **Ưu tiên nội dung (Content Priority)**
 
 - Buộc bạn tập trung vào nội dung quan trọng nhất
 - Loại bỏ các yếu tố không cần thiết
 - Tạo trải nghiệm người dùng đơn giản, rõ ràng hơn
 
-## 3. **Hiệu suất tốt hơn (Performance)**
+#### 3. **Hiệu suất tốt hơn (Performance)**
 
 - Tối ưu hóa tốc độ tải trang ngay từ đầu
 - Giảm dung lượng file, hình ảnh
 - Cải thiện Core Web Vitals (chỉ số quan trọng của Google)
 
-## 4. **SEO tốt hơn**
+#### 4. **SEO tốt hơn**
 
 - Google sử dụng Mobile-First Indexing (ưu tiên phiên bản mobile)
 - Website mobile-friendly được xếp hạng cao hơn
 - Tăng khả năng hiển thị trên kết quả tìm kiếm
 
-## 5. **Dễ mở rộng (Progressive Enhancement)**
+#### 5. **Dễ mở rộng (Progressive Enhancement)**
 
 - Bắt đầu từ mobile đơn giản, sau đó mở rộng cho màn hình lớn
 - Dễ hơn so với làm ngược lại (desktop → mobile)
 - Tránh phải cắt bỏ tính năng khi thu nhỏ
 
-## 6. **Tiết kiệm chi phí**
+#### 6. **Tiết kiệm chi phí**
 
 - Phát hiện vấn đề sớm trong quá trình phát triển
 - Giảm thời gian sửa lỗi và tối ưu hóa sau này
@@ -92,8 +97,37 @@ CORS (Cross-Origin Resource Sharing) is ==a browser security standard that lets
 ## RESTful Methods
 ## OIDC vs SAML vs JWT???
 
-
 ## What trigger layout reflow?
-## hover bằng bàn phím (focus-visible)?
+## Hover bằng bàn phím (focus-visible)?
 
 ## prefers-reduced-motion
+
+## QA vs QC vs Testing
+
+## CI and CD
+#### CI = Continuous Integration (Tích hợp liên tục)
+
+- **Làm gì?** Mỗi lần code mới được push/merge vào nhánh chính (thường là main/master), hệ thống **tự động**:
+    - Build project (compile code).
+    - Chạy test (unit test, integration test...).
+- **Mục tiêu chính**: Phát hiện lỗi sớm, tránh tình trạng "trên máy tao chạy ngon mà merge thì hỏng".
+- **Kết quả**: Code luôn ở trạng thái "có thể build & test thành công".
+- **Deploy sản phẩm?** Chưa, vẫn phải làm thủ công hoặc bước riêng.
+- **Ví dụ thực tế**: GitHub Actions chạy test mỗi khi bạn push code → green thì ok, red thì fix ngay.
+
+#### CD = Continuous Delivery (Triển khai liên tục)
+
+- **Làm gì?** Làm hết CI + thêm:
+    - Tự động deploy code lên các môi trường staging/QA/pre-prod.
+    - Code luôn ở trạng thái **sẵn sàng deploy lên production bất cứ lúc nào**.
+- **Deploy production?** Vẫn cần **bấm nút thủ công** hoặc approve (an toàn hơn).
+- **Mục tiêu**: Có thể release bất kỳ lúc nào chỉ với 1 click.
+
+#### Continuous Deployment (một dạng CD khác – hiếm hơn)
+
+- Giống Continuous Delivery nhưng **không cần bấm nút**: Nếu pass hết test → tự động deploy thẳng lên production luôn.
+- Chỉ những team siêu tự tin (test coverage cao, monitoring tốt) mới dùng (ví dụ Netflix, Google).
+#### Tóm tắt siêu ngắn:
+- **CI**: "Code merge thường xuyên + auto test" → code không bị hỏng.
+- **Delivery**: "Code luôn sẵn sàng release" → bấm nút là lên prod.
+- **Deployment**: "Mọi thứ tự động hoàn toàn" → commit tốt = user thấy ngay.

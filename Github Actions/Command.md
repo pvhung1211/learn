@@ -1,0 +1,1 @@
+A shell script that is defined by you. It can use [[Expressions]] or [[Contexts]] to get special values.
